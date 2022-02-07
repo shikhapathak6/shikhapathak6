@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-shikhapathak6.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shikhapathak6.github.io/)](https://shikhapathak6.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-@shikha_pathak6-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shikha_pathak6)](https://twitter.com/shikha_pathak6)
 
-Full Stack Developer with 6+ years experience in development, including 4 years of working on Jharkhand Govt. Project. Have worked extensively on PHP Codeigniter framework, Native Android App, HTML, CSS, Bootstrap, JS, JQuery, AJAX, Networking and Web Hosting.
+Full Stack Developer with 6+ years experience in development, including 5 years of working on Jharkhand Govt. Project. Have worked extensively on PHP Codeigniter framework, Native Android App, HTML, CSS, Bootstrap, JS, JQuery, AJAX, Networking and Web Hosting.
 
 
 ---
