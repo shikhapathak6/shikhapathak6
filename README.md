@@ -1,4 +1,6 @@
 ## Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Shikha here 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhapathak6&label=Profile%20views&color=0e75b6&style=flat" alt="shikhapathak6" /> </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shikhapathak6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Linkedin Badge](https://img.shields.io/badge/-shikhapathak6-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikhapathak6/)](https://www.linkedin.com/in/shikhapathak6/)
