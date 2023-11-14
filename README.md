@@ -1,4 +1,6 @@
 ## Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Shikha here 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=shikhapathak6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Linkedin Badge](https://img.shields.io/badge/-shikhapathak6-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikhapathak6/)](https://www.linkedin.com/in/shikhapathak6/)
 [![Medium Badge](https://img.shields.io/badge/-@shikhapathak6-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@shikhapathak6)](https://medium.com/@shikhapathak6)
 [![Website Badge](https://img.shields.io/badge/-shikhapathak6.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shikhapathak6.github.io/)](https://shikhapathak6.github.io/)
